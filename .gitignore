@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+model_zoo/*
+resnet50_v1_vggface2_3k/
